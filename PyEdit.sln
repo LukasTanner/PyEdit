@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PyEdit", "PyEdit\PyEdit.vbproj", "{DF19BFB3-DC27-4159-AF5F-63FF214EF849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF19BFB3-DC27-4159-AF5F-63FF214EF849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF19BFB3-DC27-4159-AF5F-63FF214EF849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF19BFB3-DC27-4159-AF5F-63FF214EF849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF19BFB3-DC27-4159-AF5F-63FF214EF849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB15A26F-9AA6-4E27-96F6-306ABA24F74A}
+	EndGlobalSection
+EndGlobal
